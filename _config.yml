@@ -9,7 +9,7 @@
 title: WKHS Activities
 email: wkhsactivities@wscloud.org
 description: The activites for WKHS
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/activities" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
