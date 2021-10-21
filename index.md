@@ -4,8 +4,8 @@ title: WKHS Activities
 ---
 
 <header>
-<h1>There are so many options to explore at WKHS.<br />
-Learn more ⬇️</h1>
+<h1>There are so many options<br />
+to explore at WKHS.</h1>
 </header>
 
 {% include tiles.html %}
