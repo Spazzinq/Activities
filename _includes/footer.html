@@ -53,9 +53,10 @@
 			</ul>
 		</section>
 		<ul class="copyright">
-			<li>&copy; {{ site.title }}. All rights reserved</li>
-			<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-			<li>Jekyll integration: <a href="http://andrewbanchi.ch">Andrew Banchich</a></li>
+			<li>&copy; {{ site.title }}. All rights reserved.</li>
+			{% if site.github_username %}
+			<li>Made by <a href="https://github.com/Spazzinq">George Fang</a></li>
+			{% endif %}
 		</ul>
 	</div>
 </footer>
