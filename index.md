@@ -22,7 +22,7 @@ title: WKHS Activities
       stringsElement: '.typed-strings',
       startDelay: 3000,
       backDelay: 2000,
-      typeSpeed: 20,
+      typeSpeed: 40,
       smartBackspace: true
     };
 
