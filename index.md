@@ -4,7 +4,7 @@ title: WKHS Activities
 ---
 
 <header>
-  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
   <script>
     var options = {
       stringsElement: '.typed-strings',
