@@ -14,15 +14,15 @@ title: WKHS Activities
       <p>improve</p>
     </div>
     <span class="typed"></span>
-    at WKHS.</h1>
+    as a part of the pack.</h1>
   <p>Join a club to write your own story, build a life-sized robot, or even be the next e-sports professional<br />
     And if you have other aspirations, discover them below ↓</p>
   <script>
     var options = {
       stringsElement: '.typed-strings',
-      startDelay: 1000,
-      backDelay: 1000,
-      typeSpeed: 25,
+      startDelay: 3000,
+      backDelay: 2000,
+      typeSpeed: 20,
       smartBackspace: true
     };
 
