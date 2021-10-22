@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities Index
+title: Activities at WKHS
 ---
 
 <header>
