@@ -29,7 +29,7 @@ github_username: spazzinq
 markdown: kramdown
 
 # Layout settings
-home-link-in-menu: yes
+home-link-in-menu: false
 
 # Collections
 collections:
