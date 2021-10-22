@@ -33,4 +33,5 @@ home-link-in-menu: yes
 
 # Collections
 collections:
-  - clubs
+  clubs:
+    output: true
