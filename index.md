@@ -20,7 +20,7 @@ title: Activities at WKHS
   <script>
     var options = {
       stringsElement: '.typed-strings',
-      startDelay: 3000,
+      startDelay: 2000,
       backDelay: 2000,
       typeSpeed: 60,
       smartBackspace: true
