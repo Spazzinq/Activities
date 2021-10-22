@@ -29,7 +29,7 @@ instagram_username: worthingtonschools
 markdown: kramdown
 
 # Layout settings
-home-link-in-menu: false
+home-link-in-menu: no
 
 # Collections
 collections:
