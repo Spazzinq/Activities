@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Activities
+title: Activities at WKHS
 email: gf0660@wscloud.org
-description: Learn more about opportunities at WKHS!
+description: Learn more about opportunities at Kilbourne!
 baseurl: "/activities" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
