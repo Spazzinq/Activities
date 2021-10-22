@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WKHS Activities
+title: Activities Index
 ---
 
 <header>
@@ -11,7 +11,7 @@ title: WKHS Activities
       <p>discover</p>
       <p>lead</p>
       <p>grow</p>
-      <p>improve</p>
+      <p>excel</p>
     </div>
     <span class="typed"></span>
     as a part of the pack.</h1>
@@ -22,7 +22,7 @@ title: WKHS Activities
       stringsElement: '.typed-strings',
       startDelay: 3000,
       backDelay: 2000,
-      typeSpeed: 40,
+      typeSpeed: 60,
       smartBackspace: true
     };
 
