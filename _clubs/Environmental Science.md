@@ -2,7 +2,7 @@
 layout: default
 title:  "Environmental Science"
 categories: stem
-excerpt: Raising awareness on environmental issues while educating and empowering students.
+excerpt: "Raising awareness on environmental issues while educating and empowering students."
 ---
 
 # {{ page.title }}

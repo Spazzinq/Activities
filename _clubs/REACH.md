@@ -2,7 +2,7 @@
 layout: default
 title:  "REACH"
 categories: service
-excerpt: Empowering students with and without disabilities to grow in social situations.
+excerpt: "Empowering students with and without disabilities to grow in social situations."
 ---
 
 # {{ page.title }}
