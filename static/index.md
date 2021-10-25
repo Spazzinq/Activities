@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Activities at WKHS
+permalink: /index.html
 ---
 
 <header>
