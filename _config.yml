@@ -35,3 +35,4 @@ home-link-in-menu: no
 collections:
   clubs:
     output: true
+    permalink: /:collection/:name
