@@ -13,7 +13,7 @@ excerpt: "Bringing together students to develop leadership skills and practice S
 
 **Mission Statement**: The Interact Club brings together students to develop leadership skills and practice Service Above Self.
 
-<img src="{{ site.baseurl }}/images/clubs/{{ page.title }}.jpg" alt="{{ page.title }} group photo" width="200"/>
+<img src="{{ site.baseurl }}/images/clubs/{{ page.title }}.jpg" alt="{{ page.title }} group photo"/>
 
 Interact is a service club for youth who want to connect with other young people and have fun while serving their communities and learning about the world. All students are welcome to join and participate as much as they'd like!
 
