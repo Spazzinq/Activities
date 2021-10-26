@@ -1,7 +1,7 @@
 <section class="tiles">
 
 {% for post in site.clubs limit:site.front-page-posts %}
-	<article class="style{{ forloop.index | plus:1 }}">
+	<article class="style{{ forloop.index0 | plus:1 }}">
 		<span class="image">
 			<img src="{{ site.url }}{{ site.baseurl }}/images/pic02.jpg" alt="" />
 		</span>
