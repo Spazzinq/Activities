@@ -16,7 +16,7 @@ permalink: /index.html
     </div>
     <span class="typed"></span>
     as a part of the pack.</h1>
-  <p>Join a club to write your own story, build a life-sized robot, or even be the next e-sports professional<br />
+  <p>Join a club to write your own story, build a life-sized robot, or even be the next e-sports professional.<br />
     And if you have other aspirations, discover them below ↓</p>
   <script>
     var options = {
