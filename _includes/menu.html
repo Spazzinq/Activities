@@ -1,18 +1,14 @@
 <nav id="menu">
 	<h2>Menu</h2>
 	<ul>
-
-		{% for page in site.pages %}
-		{% if page.path == "index.html" %}
-		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
-		{% endif %} {% endfor %}
-
 		{% for page in site.pages %}
 
-		{% if page.title %}
+		{% if page.title != site.title and page.title != "404 Error" %}
 
-		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | remove: "Activities at WKHS" }}</a></li>
+		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 
-		{% endif %} {% endfor %}
+		{% endif %}
+		
+		{% endfor %}
 	</ul>
 </nav>
