@@ -9,7 +9,7 @@ excerpt: "Bringing the experiences of real-world engineering to high school stud
 
 **Advisor**: Thomas Karns (<tkarns@wscloud.org>)
 <br/>**Student President**: Phillip White (<pw0094@wscloud.org>)
-<br/>**Location**: Room ROOM
+<br/>**Location**: Engineering Hallway
 
 **Mission**: The WorBots 4145 is a local FIRST Robotics Competition team that focuses on bringing the experience of a real-world engineering operation to high school students.
 
