@@ -8,8 +8,7 @@ excerpt: "Empowering students with and without disabilities to grow in social si
 # {{ page.title }}
 
 **Advisor**: Brian Morlan (<bmorlan@wscloud.org>), Courtney Bode (<cbode@wscloud.org>)
-<br/>**Student President**: N/A
-<br/>**Location**: 
+<br/>**Location**: N/A
 
 **Mission Statement**: The REACH Club empowers students with and without disabilities to grow in social situations and provide opportunities for lifetime friendships.
 
