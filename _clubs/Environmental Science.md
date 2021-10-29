@@ -9,8 +9,8 @@ excerpt: "Raising awareness on environmental issues while educating and empoweri
 
 **Advisor**: Chelsey Hundertpfund (<chundertpfund@wscloud.org>)
 <br/>**Student President**: Dominic Tavella (<dt0088@wscloud.org>)
-<br/>**Meetings**: N/A
 <br/>**Location**: Room 252
+<br/>**Meetings**: Regular, Every other Wednesday
 
 **Mission Statement**: The Environmental Science Club (ESC) raises awareness on environmental issues such as protection, conservation, preservation, and restoration with an emphasis on educating and empowering students.
 
