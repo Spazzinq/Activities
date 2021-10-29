@@ -2,15 +2,15 @@
 layout: default
 title:  "Culture Shook"
 categories: service
-excerpt: "Experiencing other high schools in Ohio to make friends and develop a diverse worldview"
+excerpt: "Experiencing other high schools in Ohio to make friends and develop a diverse worldview."
 ---
 
 # {{ page.title }}
 
 **Advisor**: David Strausbaugh (<dstrausbaugh@wscloud.org>)
 <br/>**Student President**: TBA
-<br/>**Meetings**: Irregular
 <br/>**Location**: Room 250
+<br/>**Meetings**: Irregular
 
 **Mission**: Culture Shook is a program in which students from WKHS meet students from other high schools in Ohio with various backgrounds (urban, suburban, rural) to make friendships and develop a diverse worldview.
 

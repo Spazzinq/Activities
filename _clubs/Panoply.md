@@ -8,9 +8,8 @@ excerpt: "Inspiring writers to take their work to the next level."
 # {{ page.title }}
 
 **Advisor**: Todd Cecutti (<tcecutti@wscloud.org>)
-<br/>**Student President**: N/A
-<br/>**Meetings**: Regular, Mondays after school
 <br/>**Location**: Room 232
+<br/>**Meetings**: Regular, Mondays after school
 
 **Mission**: Panoply is a creative club that focuses on inspiring students to write effectively through literary analysis, creative brainstorming, and critical discussion.
 
