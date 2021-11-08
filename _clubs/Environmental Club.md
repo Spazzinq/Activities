@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Environmental Science"
+title:  "Environmental Club"
 categories: stem
 excerpt: "Raising awareness on environmental issues while educating and empowering students."
 ---

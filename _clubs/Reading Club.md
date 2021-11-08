@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Book Reading"
+title:  "Reading Club"
 categories: media
 excerpt: "Nourishing student minds with words of wisdom."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Robotics"
+title:  "WorBots Robotics"
 categories: stem
 excerpt: "Bringing the experiences of real-world engineering to high school students."
 ---
