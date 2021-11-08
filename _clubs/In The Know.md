@@ -2,7 +2,7 @@
 layout: default
 title:  "In The Know"
 categories: media
-excerpt: "Testing student knowledge through Jeopardy-like trivia."
+excerpt: "Enjoying scholastic competition through Jeopardy-like trivia."
 ---
 
 # {{ page.title }}
