@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "JSA"
+title:  "Junior State of America"
 categories: politics
 excerpt: "Teaching civic engagement, leadership skills, and debate skills to high school students."
 ---
