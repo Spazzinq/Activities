@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "eSports"
+title:  "eSports Ohio"
 categories: fun
 excerpt: "Providing alternative opportunities for students to compete in high school"
 ---
