@@ -16,7 +16,7 @@ permalink: /index.html
     </div>
     <span class="typed"></span>
     as a part of the pack.</h1>
-  <p>Join a club to [write your own story](https://activities.wkhsmedia.com/clubs/panoply), [build a life-sized robot](https://activities.wkhsmedia.com/clubs/worbots), or even [be the next e-sports professional] (https://activities.wkhsmedia.com/clubs/esports).<br />
+  <p>Join a club to <a href="https://activities.wkhsmedia.com/clubs/panoply">write your own story</a>, <a href="https://activities.wkhsmedia.com/clubs/worbots">build a life-sized robot</a>, or even <a href="https://activities.wkhsmedia.com/clubs/esports">be the next e-sports professional</a>.<br />
     And if you have other aspirations, discover them below ↓</p>
   <script>
     var options = {
