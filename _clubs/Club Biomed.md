@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Club Biomed"
-categories: 
+categories: stem
 excerpt: "Developing student knowledge and collegiate-level skills in health-related fields."
 ---
 

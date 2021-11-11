@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Panoply"
-categories: media
+categories: media, arts
 excerpt: "Inspiring writers to take their work to the next level."
 ---
 

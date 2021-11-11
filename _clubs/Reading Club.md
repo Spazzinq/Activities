@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Reading Club"
-categories: media
+categories: media, arts
 excerpt: "Nourishing student minds with words of wisdom."
 ---
 

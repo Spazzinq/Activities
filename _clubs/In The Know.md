@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "In The Know"
-categories: media
+categories: media, fun
 excerpt: "Enjoying scholastic competition through Jeopardy-like trivia."
 ---
 

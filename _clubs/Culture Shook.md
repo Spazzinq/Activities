@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Culture Shook"
-categories: service
+categories: service, fun
 excerpt: "Experiencing other high schools in Ohio to make friends and develop a diverse worldview."
 ---
 
