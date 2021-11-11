@@ -9,6 +9,7 @@ excerpt: "Bringing the experiences of real-world engineering to high school stud
 
 **Advisor**: Thomas Karns (<tkarns@wscloud.org>)
 <br/>**Student President**: Phillip White (<pw0094@wscloud.org>)
+<br/>**Season**: Fall (few meetings), Winter (actual season), Spring (competitions)
 <br/>**Location**: Engineering Hallway/Workshop
 <br/>**Meetings**: Irregular until season start, Then daily except for Sundays
 

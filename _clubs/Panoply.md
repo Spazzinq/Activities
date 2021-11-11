@@ -8,6 +8,7 @@ excerpt: "Inspiring writers to take their work to the next level."
 # {{ page.title }}
 
 **Advisor**: Todd Cecutti (<tcecutti@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 232
 <br/>**Meetings**: Regular, Mondays after school
 

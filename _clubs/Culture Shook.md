@@ -9,6 +9,7 @@ excerpt: "Experiencing other high schools in Ohio to make friends and develop a 
 
 **Advisor**: David Strausbaugh (<dstrausbaugh@wscloud.org>)
 <br/>**Student President**: TBA
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 250
 <br/>**Meetings**: Irregular
 

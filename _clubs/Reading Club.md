@@ -8,6 +8,7 @@ excerpt: "Nourishing student minds with words of wisdom."
 # {{ page.title }}
 
 **Advisor**: Megan Humphrey (<mhumphrey@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Library
 <br/>**Meetings**: Scheduled, At 7:15am on the following dates
 - November 10th

@@ -8,6 +8,7 @@ excerpt: "Enjoying scholastic competition through Jeopardy-like trivia."
 # {{ page.title }}
 
 **Advisor**: Laura Haverkamp (<lhaverkamp@wscloud.org>)
+<br/>**Season**: Winter
 <br/>**Location**: Library
 <br/>**Meetings**: Regular, Usually Wednesdays after school, 3:15pm-4:00pm
 

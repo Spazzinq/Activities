@@ -9,6 +9,7 @@ excerpt: "Raising awareness on environmental issues while educating and empoweri
 
 **Advisor**: Chelsey Hundertpfund (<chundertpfund@wscloud.org>)
 <br/>**Student President**: Dominic Tavella (<dt0088@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 252
 <br/>**Meetings**: Regular, Every other Wednesday
 

@@ -8,6 +8,7 @@ excerpt: "Providing alternative opportunities for students to compete in high sc
 # {{ page.title }}
 
 **Advisor**: Gavin Meeks (<gmeeks@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 134, Engineering/Art Hallway
 <br/>**Meetings**: Daily after school except for Fridays
 - <u>Monday</u>: Fortnite

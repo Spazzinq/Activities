@@ -9,6 +9,7 @@ excerpt: "Bringing together students to develop leadership skills and practice S
 
 **Advisor**: Heather Koch (<hkoch@wscloud.org>)
 <br/>**Student President**: Kya Angle (<ka0770@wscloud.org>), Rachael McCague (<rm0052@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 120
 <br/>**Meetings**: Irregular
 

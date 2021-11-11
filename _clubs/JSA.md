@@ -9,6 +9,7 @@ excerpt: "Teaching civic engagement, leadership skills, and debate skills to hig
 
 **Advisor**: John Patch (<jpatch@wscloud.org>)
 <br/>**Student President**: Sierra Haurani (<sh0548@wscloud.org>)
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 207
 <br/>**Meetings**: Regular, Every other Wednesday after school
 
