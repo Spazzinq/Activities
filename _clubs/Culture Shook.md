@@ -2,7 +2,7 @@
 layout: default
 title:  "Culture Shook"
 categories: service, fun
-excerpt: "Experiencing other high schools in Ohio to make friends and develop a diverse worldview."
+excerpt: "Visiting different high schools in Ohio to develop friendships and a diverse worldview."
 ---
 
 # {{ page.title }}
