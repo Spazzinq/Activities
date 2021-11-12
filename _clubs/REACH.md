@@ -9,7 +9,7 @@ excerpt: "Empowering students with and without disabilities to grow in social si
 
 **Advisor**: Brian Morlan (<bmorlan@wscloud.org>), Courtney Bode (<cbode@wscloud.org>)
 <br/>**Season**: Winter, Spring
-<br/>**Location**: Unavailable
+<br/>**Location**: Room 103
 <br/>**Meetings**: First Tuesday of every month at 7:15am starting December 9th
 
 **Mission Statement**: The REACH Club empowers students with and without disabilities to grow in social situations and provide opportunities for lifetime friendships.
