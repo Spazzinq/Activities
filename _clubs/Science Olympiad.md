@@ -20,10 +20,10 @@ excerpt: ""
 Want to perform experiments? Learn about diseases? Program a calculator to read temperature? Make a helicopter fly? Model protein structures? Science Olympiad might be the club for you. Each year, Kilbourne's Science Olympiad participates in tournaments and non-competitive events with teams across Ohio. This year, the events are back to physical invitationals, so get ready to learn and demonstrate your knowledge at an exciting competition!
 
 Tentative Practice Events:
-TWHS - Practice Invitational, Date TBA
-Solon, OH - Solon High School Invitational, Division C, Traditional In-Person, 1/15/22
-Columbus, OH - The Ohio State University Invitational, Division C, Satellite, 1/22/22
-Centerville, OH - Centerville Satellite Invitational, Division B/C, Satellite, 1/29/22
-Cincinnati, OH - University of Cincinnati Invitational, Division C, Satellite, 2/19/22
+<br/>TWHS - Practice Invitational, Date TBA
+<br/>Solon, OH - Solon High School Invitational, Division C, Traditional In-Person, 1/15/22
+<br/>Columbus, OH - The Ohio State University Invitational, Division C, Satellite, 1/22/22
+<br/>Centerville, OH - Centerville Satellite Invitational, Division B/C, Satellite, 1/29/22
+<br/>Cincinnati, OH - University of Cincinnati Invitational, Division C, Satellite, 2/19/22
 
 Learn More: Contact **Sierra Haurani** at <sh0548@wscloud.org>
