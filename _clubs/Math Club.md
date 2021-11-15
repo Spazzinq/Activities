@@ -8,7 +8,7 @@ excerpt: "Challenging students to excel in math competitions."
 # {{ page.title }}
 
 **Advisor**: Doug Troutner (<dtroutner@wscloud.org>)
-**Season**: Fall, Winter, Spring
+<br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Room 259
 <br/>**Meetings**: Irregular, once a month before school usually from 7:05 to 7:35am (Your teacher will notify you)
 
