@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Junior State of America"
-categories: politics
+categories: debate
 excerpt: "Teaching civic engagement, leadership skills, and debate skills to high school students."
 ---
 
