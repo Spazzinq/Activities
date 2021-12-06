@@ -11,7 +11,7 @@ excerpt: ""
 <br/>**Student President**: Sierra Haurani (<sh0548@wscloud.org>), George Fang (<gf0660@wscloud.org>)
 <br/>**Season**: Winter
 <br/>**Location**: Room 231
-<br/>**Meetings**: Thursdays after school at 3:15pm starting December 2nd
+<br/>**Meetings**: Fridays after school at 3:15pm
 
 **Mission Statement**: Kilbourne's Science Olympiad is a club dedicated to improving the quality of science education, increasing opportunity and diversity in science, creating a technologically-literate workforce, and providing recognition for outstanding achievement by both students and teachers.
 
