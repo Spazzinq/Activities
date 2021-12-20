@@ -15,7 +15,7 @@ excerpt: "Enriching Kilbourne's climate and providing service to the community."
 
 **Mission**: Kilbourne's Student Council provides the opportunity to enrich the school climate and provide service to our community.
 
-<img src="{{ site.baseurl }}/images/clubs/{{ page.title }}.jpg" alt="Photo submitted by contributer Riley Najera"/>
+<!-- <img src="{{ site.baseurl }}/images/clubs/{{ page.title }}.jpg" alt="{{ page.title }} group photo"/> -->
 
 Student Council is very involved at Kilbourne and members get to participate in a lot of fun and impactful activities (as mentioned above). You can participate in creative roles by making decorations for school dances, participating in Window Painting, or making posters; leadership roles by organizing and heading committees and speaking in assemblies; and if those are not for you, but you still want to help make a difference in the school and community, then there are more types of jobs for everyone. Student Council is also very good at working around busy sports or work schedules to provide volunteer opportunities for everyone. If you are a member of NHS or other another group that requires volunteer hours, Student Council provides plenty of volunteer opportunities from which you can earn credit. Student Council members are leaders who want to get involved in the improvement and overall running of the school as well as contributing to the community. 
 
