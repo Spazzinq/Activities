@@ -11,7 +11,7 @@ excerpt: "Enriching Kilbourne's climate and providing service to the community."
 <br/>**Student Body President**: Ethan Skinner (<es0696@wscloud.org>)
 <br/>**Season**: Fall, Winter, Spring
 <br/>**Location**: Auditorium, Main Gym, Library
-<br/>**Meetings**: Regular, Mondays after school
+<br/>**Meetings**: Irregular
 
 **Mission**: Kilbourne's Student Council provides the opportunity to enrich the school climate and provide service to our community.
 
