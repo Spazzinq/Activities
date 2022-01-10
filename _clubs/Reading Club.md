@@ -25,4 +25,4 @@ excerpt: "Nourishing student minds with words of wisdom."
 
 The Book Club is open to anyone who is interested! We choose one book a month to read and then discuss as a group at the following meeting. A variety of genres, new books, and award winners are selected throughout the year. 
 
-Learn More: Visit the library, or contact **Mrs. Humphrey** at <mhumphrey@wscloud.org>
+Learn More: Visit the library or Contact an advisor (above)

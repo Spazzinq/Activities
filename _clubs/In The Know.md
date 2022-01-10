@@ -18,4 +18,4 @@ excerpt: "Enjoying scholastic competition through Jeopardy-like trivia."
 
 Do you like trivia? Do you enjoy watching Jeopardy every 7pm on Tuesdays? Do you play TriviaCrack? Kilbourne's In The Know team might be your avenue to enjoy trivia in-person for yourself. This ever-popular quiz program hosted by WOSU attracts students from high schools all over central and southern Ohio. The format of the program is a Jeopardy-style presentation where a host asks questions to eight students (four per team). The questions are based on general high school subjects ranging from science to visual arts. You can earn scholarships from The Ohio State University if Kilbourne is one of the top four high school teams!
 
-Learn More: Contact **Ms. Haverkamp** at <lhaverkamp@wscloud.org>
+Learn More: Contact an Advisor (above)

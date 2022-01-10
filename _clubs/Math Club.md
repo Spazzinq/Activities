@@ -21,4 +21,4 @@ The WKHS Math Club participates in several math competitions each year.
 
 If you enjoy challenging math problems, this is the club for you! Each month, each member takes the Ohio Math League test, and later in the year we compete in the American Mathematics Competitions and American Invitational Mathematics Exam (for those who qualify). 
 
-Learn More: Ask your math teacher or contact **Mr. Troutner** at <dtroutner@wscloud.org>
+Learn More: Ask your math teacher or Contact an advisor (above)

@@ -19,4 +19,4 @@ excerpt: "Visiting different high schools in Ohio to develop friendships and a d
 
 Do you like to meet people, make friends, and hang out? Then Culture Shook is the program for you! This club is a low-key, fun way to visit other high schools throughout Ohio and make friends with some great students!  This is also a great way to broaden your horizons and learn about students from different parts of the state.
 
-Learn More: Contact **Mr. Strausbaugh** at <dstrausbaugh@wscloud.org>
+Learn More: Contact an Advisor (above)

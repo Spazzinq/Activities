@@ -21,4 +21,4 @@ Student Council is very involved at Kilbourne and members get to participate in 
 
 Student Council participates in a number of school and community events to help those in need in the community and beyond through fundraising, organizing school events, and planning school spirit activities. We meet once a month as a large group, with additional meetings as needed for each class. Meetings take place during lunch periods, and many activities take place during school hours as well, with some required volunteer time outside of school hours. Some examples of Student Council activities include planning and setting up school dances, assemblies, and spirit days; running our annual canned food drive, Holiday Compassion Campaign, and blood drives; and more.
 
-Learn More: Email **Mrs. Humphrey** at <mhumphrey@wscloud.org>
+Learn More: Contact an Advisor (above)

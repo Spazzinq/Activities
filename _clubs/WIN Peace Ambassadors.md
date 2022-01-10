@@ -27,4 +27,4 @@ plays for Worthington Schools’ third graders.
 
 Our mantra: include don’t exclude! Make a positive difference in the lives of over 700 Worthington third graders. Become part of the WIN Peace Ambassadors, whose role is to perform skits in all eleven Worthington elementary schools, teaching young students the importance of treating all people with respect. This is a high impact program that helps to make this world a more inclusive, peaceful place. Join us!
 
-Learn More: Contact **Mrs. Moore** at <kathymoore123@gmail.com>
+Learn More: Contact an Advisor (above)

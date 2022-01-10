@@ -19,4 +19,4 @@ excerpt: "Developing student knowledge and collegiate-level skills in health-rel
 
 Want to learn about careers in healthcare? Want to develop your researh skills? Club Biomed may be the right fit for you! We bring in guest speakers from the medical field and other health-related fields to expose students to different career pathways in health. And when Club Biomed isn't learning from workers in the field, we are developing our research skills, general college readiness, and other useful skills to advance the future stewards of healthcare.
 
-Learn More: Contact **Ms. Davis** at <bdavis@wscloud.org>
+Learn More: Contact an Advisor (above)

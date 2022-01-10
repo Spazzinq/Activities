@@ -19,4 +19,4 @@ excerpt: "Bringing together students to develop leadership skills and practice S
 
 Interact is a service club for youth who want to connect with other young people and have fun while serving their communities and learning about the world. All students are welcome to join and participate as much as they'd like! Visit [@wkhs.interact on Instagram](https://www.instagram.com/wkhs.interact/) and [@WKHSInteract on Twitter](https://twitter.com/WKHSInteract) to see our interactions!
 
-Learn More: Contact **Mrs. Koch** at <hkoch@wscloud.org>
+Learn More: Contact an Advisor (above)
