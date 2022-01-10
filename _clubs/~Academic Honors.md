@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "* Academic Honors"
+title:  "~ Academic Honors"
 categories: incomplete
 excerpt: ""
 ---
