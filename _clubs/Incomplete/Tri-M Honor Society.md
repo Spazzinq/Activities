@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Gender Sexuality Alliance"
+title:  "~ Tri-M Honor Society"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Daniel Robey (<drobey@wscloud.org>)
+**Advisor**: Alex Brough (<abrough@wscloud.org>), Holly Lewis (<hlewis@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

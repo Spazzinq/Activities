@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "* Project MORE"
+title:  "~ Project MORE"
 categories: incomplete
 excerpt: ""
 ---

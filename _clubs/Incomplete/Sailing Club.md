@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Wolves for Cubs"
+title:  "~ Sailing Club"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Maria Welter (no email)
+**Advisor**: jamie Jones (no email)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

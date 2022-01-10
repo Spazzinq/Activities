@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Pep Band"
+title:  "~ Mock Trial"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: James DeFrancesco (<jdefrancesco@wscloud.org>)
+**Advisor**: Eric Hershberger (<eric@ohiolawyersgroup.com>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

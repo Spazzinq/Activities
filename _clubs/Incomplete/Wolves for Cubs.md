@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Marching Band"
+title:  "~ Wolves for Cubs"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Alex Brough (<abrough@wscloud.org>)
+**Advisor**: Maria Welter (no email)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

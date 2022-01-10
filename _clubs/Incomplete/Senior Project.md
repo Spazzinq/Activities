@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* French Exchange"
+title:  "~ Senior Project"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Sandrine White (<swhite@wscloud.org>), Michelle Hill (<mhill@wscloud.org>)
+**Advisor**: Josie Stubenrauch (<jstubenrausch@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

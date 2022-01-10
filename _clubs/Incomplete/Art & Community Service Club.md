@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Society of Women Engineers"
+title:  "~ Art & Community Service Club"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: .Todd Deisher (<tdeisher@wscloud.org>), Tom Karns (<tkarns@wscloud.org>)
+**Advisor**: Ali Burke (<aburke@wscloud.org>), Julie Woodrow (<jwoodrow@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

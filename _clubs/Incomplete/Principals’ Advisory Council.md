@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* WKHS News"
+title:  "~ Principals’ Advisory Council"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Jessie Hemmelgarn (<jhemmelgarn@wscloud.org>)
+**Advisor**: Aric Thomas (<athomas@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

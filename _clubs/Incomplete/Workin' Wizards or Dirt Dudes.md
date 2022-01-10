@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Principals’ Advisory Council"
+title:  "~ Workin’ Wizards/Dirt Dudes"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Aric Thomas (<athomas@wscloud.org>)
+**Advisor**: Mike Brown (<mbrown@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

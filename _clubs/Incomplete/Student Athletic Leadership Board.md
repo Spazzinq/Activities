@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* The Ravine"
+title:  "~ Student Athletic Leadership Board"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Jessie Hemmelgarn (<jhemmelgarn@wscloud.org>)
+**Advisor**: Jeff Todd (<jtodd@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

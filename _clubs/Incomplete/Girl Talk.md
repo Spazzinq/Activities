@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "* Girl Talk"
+title:  "~ Girl Talk"
 categories: incomplete
 excerpt: ""
 ---

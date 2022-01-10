@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Workin’ Wizards/Dirt Dudes"
+title:  "~ French Exchange"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Mike Brown (<mbrown@wscloud.org>)
+**Advisor**: Sandrine White (<swhite@wscloud.org>), Michelle Hill (<mhill@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

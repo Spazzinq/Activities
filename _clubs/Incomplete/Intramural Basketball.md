@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "* Intramural Basketball"
+title:  "~ Intramural Basketball"
 categories: incomplete
 excerpt: ""
 ---

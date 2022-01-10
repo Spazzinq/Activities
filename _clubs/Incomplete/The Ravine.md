@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Sailing Club"
+title:  "~ The Ravine"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: jamie Jones (no email)
+**Advisor**: Jessie Hemmelgarn (<jhemmelgarn@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

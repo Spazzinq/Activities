@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Mock Trial"
+title:  "~ Socratic Society"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Eric Hershberger (<eric@ohiolawyersgroup.com>)
+**Advisor**: Zach Peterson (<zpeterson@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

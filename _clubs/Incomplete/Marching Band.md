@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Sports Medicine Club"
+title:  "~ Marching Band"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Dyanne Lewis (<dklewis@wscloud.org>)
+**Advisor**: Alex Brough (<abrough@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

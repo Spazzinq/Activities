@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Art & Community Service Club"
+title:  "~ Sports Medicine Club"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Ali Burke (<aburke@wscloud.org>), Julie Woodrow (<jwoodrow@wscloud.org>)
+**Advisor**: Dyanne Lewis (<dklewis@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Senior Project"
+title:  "~ Pep Band"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Josie Stubenrauch (<jstubenrausch@wscloud.org>)
+**Advisor**: James DeFrancesco (<jdefrancesco@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

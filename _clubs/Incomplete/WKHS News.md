@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Student Athletic Leadership Board"
+title:  "~ WKHS News"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Jeff Todd (<jtodd@wscloud.org>)
+**Advisor**: Jessie Hemmelgarn (<jhemmelgarn@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

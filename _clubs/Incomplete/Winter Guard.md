@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Socratic Society"
+title:  "~ Winter Guard"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Zach Peterson (<zpeterson@wscloud.org>)
+**Advisor**: Matthew Turcotte (<wkmb3@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

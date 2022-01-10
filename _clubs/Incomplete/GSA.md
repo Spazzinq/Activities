@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Winter Guard"
+title:  "~ Gender Sexuality Alliance"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Matthew Turcotte (<wkmb3@wscloud.org>)
+**Advisor**: Daniel Robey (<drobey@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Tri-M Honor Society"
+title:  "~ Society of Women Engineers"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Alex Brough (<abrough@wscloud.org>), Holly Lewis (<hlewis@wscloud.org>)
+**Advisor**: .Todd Deisher (<tdeisher@wscloud.org>), Tom Karns (<tkarns@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

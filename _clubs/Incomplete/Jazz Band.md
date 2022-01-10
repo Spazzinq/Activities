@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "* Student of the Month"
+title:  "~ Jazz Band"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Zach Peterson (<zpeterson@wscloud.org>)
+**Advisor**: Alex Brough (<abrough@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable
