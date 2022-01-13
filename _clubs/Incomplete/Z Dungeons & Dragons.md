@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "~ Student of the Month"
+title:  "~ Dungeons & Dragons"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Zach Peterson (<zpeterson@wscloud.org>)
+**Advisor**: Ed Chism (<echism@wscloud.org>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "~ Marching Band"
+title:  "~ Dance Team"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Alex Brough (<abrough@wscloud.org>)
+**Advisor**: Taylor Treeger (<ttreegs18@gmail.com>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable

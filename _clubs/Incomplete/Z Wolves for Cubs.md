@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  "~ The Ravine"
+title:  "~ Wolves for Cubs"
 categories: incomplete
 excerpt: ""
 ---
 
 # {{ page.title }}
 
-**Advisor**: Jessie Hemmelgarn (<jhemmelgarn@wscloud.org>)
+**Advisor**: Jill Reardon (<jer1176@att.net>)
 <br/>**Season**: Unavailable
 <br/>**Location**: Unavailable
 <br/>**Meetings**: Unavailable
