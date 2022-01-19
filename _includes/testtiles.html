@@ -9,7 +9,7 @@
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2 style="font-size: 150%; letter-spacing: 0.02em;">{{ post.title }}</h2>
 			<div class="content">
-				<p>{{ post.excerpt }}</p>
+				<p>{{page.categories | capitalize | join: ', '}}</p>
 			</div>
 		</a>
 	</article>
