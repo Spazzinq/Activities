@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Tri-M Honor Society"
+title:  "Tri-M Honor Society"
 categories: incomplete
 excerpt: ""
 ---

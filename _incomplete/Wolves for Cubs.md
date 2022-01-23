@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Wolves for Cubs"
+title:  "Wolves for Cubs"
 categories: incomplete
 excerpt: ""
 ---

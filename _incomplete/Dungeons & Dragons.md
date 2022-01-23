@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Dungeons & Dragons"
+title:  "Dungeons & Dragons"
 categories: incomplete
 excerpt: ""
 ---

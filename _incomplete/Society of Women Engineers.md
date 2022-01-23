@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Society of Women Engineers"
+title:  "Society of Women Engineers"
 categories: incomplete
 excerpt: ""
 ---

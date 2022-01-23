@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Jazz Band"
+title:  "Jazz Band"
 categories: incomplete
 excerpt: ""
 ---

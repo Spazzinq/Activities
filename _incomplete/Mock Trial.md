@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Mock Trial"
+title:  "Mock Trial"
 categories: incomplete
 excerpt: ""
 ---

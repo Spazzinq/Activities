@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Clay Club/Empty Bowl"
+title:  "Clay Club/Empty Bowl"
 categories: incomplete
 excerpt: ""
 ---

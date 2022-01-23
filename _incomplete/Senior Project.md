@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Senior Project"
+title:  "Senior Project"
 categories: incomplete
 excerpt: ""
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Principals’ Advisory Council"
+title:  "Principals’ Advisory Council"
 categories: incomplete
 excerpt: ""
 ---

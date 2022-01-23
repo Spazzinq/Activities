@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Art & Community Service Club"
+title:  "Art & Community Service Club"
 categories: incomplete
 excerpt: ""
 ---

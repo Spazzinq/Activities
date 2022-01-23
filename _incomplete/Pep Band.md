@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Pep Band"
+title:  "Pep Band"
 categories: incomplete
 excerpt: ""
 ---

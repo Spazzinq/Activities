@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Sailing Club"
+title:  "Sailing Club"
 categories: incomplete
 excerpt: ""
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Dance Team"
+title:  "Dance Team"
 categories: incomplete
 excerpt: ""
 ---

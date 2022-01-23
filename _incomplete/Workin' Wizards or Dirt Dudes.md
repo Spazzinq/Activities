@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Workin’ Wizards/Dirt Dudes"
+title:  "Workin’ Wizards/Dirt Dudes"
 categories: incomplete
 excerpt: ""
 ---

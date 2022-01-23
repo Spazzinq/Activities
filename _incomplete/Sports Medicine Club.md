@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Sports Medicine Club"
+title:  "Sports Medicine Club"
 categories: incomplete
 excerpt: ""
 ---

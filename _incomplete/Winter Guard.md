@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Winter Guard"
+title:  "Winter Guard"
 categories: incomplete
 excerpt: ""
 ---

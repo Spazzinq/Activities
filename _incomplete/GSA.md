@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ Gender Sexuality Alliance"
+title:  "Gender Sexuality Alliance"
 categories: incomplete
 excerpt: ""
 ---

@@ -33,6 +33,7 @@ permalink: /index.html
 
 {% include tiles.html %}
 
-<h1>Incomplete Programs</h1>
+<h1 style="margin: 4em 0 1em 0">Incomplete Programs</h1>
+<p>These programs have not provided information to WKHS Activities; however, if you are interested, you may learn more about one by contacting its advisor.</p>
 
 {% include incomplete_tiles.html %}

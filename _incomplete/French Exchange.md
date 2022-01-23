@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "~ French Exchange"
+title:  "French Exchange"
 categories: incomplete
 excerpt: ""
 ---
