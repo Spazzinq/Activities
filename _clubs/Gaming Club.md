@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Gaming Club/eSports Ohio"
+title:  "Gaming Club"
 categories: fun
 excerpt: "Providing alternative opportunities for students to compete in high school"
 ---
