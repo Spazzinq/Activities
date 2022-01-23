@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Theatre/Thespian Society"
+title:  "Thespian Society"
 categories: arts
 excerpt: "Recognizing the achievements of students in the theatrical arts."
 ---
