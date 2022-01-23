@@ -1,6 +1,6 @@
 <section class="tiles">
 
-{% for post in site.categories.stem %}
+{% for post in site.incomplete limit:site.front-page-posts %}
 	{% assign remainder = forloop.index0 | modulo: 6 %}
 	<article class="style{{ remainder | plus:1 }}">
 		<span class="image">

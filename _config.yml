@@ -36,3 +36,6 @@ collections:
   clubs:
     output: true
     permalink: /:collection/:name
+  incomplete:
+    output: true
+    permalink: /:collection/:name
