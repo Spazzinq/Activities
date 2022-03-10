@@ -13,7 +13,7 @@ excerpt: "Inspiring students to excel at music and leadership"
 <br/>**Location**: Room 114 (Band Hall)
 <br/>**Meetings**: Irregular, info available on Google Classroom (Code: 7si7btz) or on Remind (@wkhstrim2)
 
-**Mission**: Tri M’s mission is to inspire students to excel at music and leadership through service activities and other accomplishments.
+**Mission**: Tri-M’s mission is to inspire students to excel at music and leadership through service activities and other accomplishments.
 
 If you want to help out your community through music-related activities or find a group of friends who have a shared interest for service and music, come join Tri-M! Plus, once you are a senior, you can get a pink chord for graduation as an award!
 
